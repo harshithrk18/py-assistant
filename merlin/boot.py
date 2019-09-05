@@ -115,7 +115,7 @@ if __name__ == "__main__":
             mainfunction()
 '''
 ##------------------------booted perfectly-------------
-#engine1("hey sid!! I am ready for work.. how may i help  you?")
+
 while True:
     spoken_text = ""
     word = ['q','q','q','q']
